@@ -27,6 +27,7 @@ p {
   margin-left: 20px;
   background-color: lemonchiffon;
   padding: 10px 20px 10px 20px;
+  border: 6px #8A2BE2 solid;
 }
 
 .sidebar p {
@@ -38,10 +39,16 @@ font-size: 120%;
 
 img {
   max-width: 800px;
+    margin-bottom: 10px;
 }
 
 img.performer {
-  width: 240px;
+  width: 180px;
   float: left;
   margin-right: 10px;
+  background-color: #708090;
+  padding: 20px;
+  border: 1px #8A2BE2 solid;
+
+
 }
